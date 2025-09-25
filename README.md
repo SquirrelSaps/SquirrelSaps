@@ -1,6 +1,5 @@
 <div id="header" align="center" style="display: flex; flex-direction: column;">
   <img src="https://avatars.githubusercontent.com/u/58360773?s=400&u=09a1faf993fb1893577b7ae2a06e9b177f4150c3&v=4" width="100" style="border-radius:100%"/>
-    <img src="https://komarev.com/ghpvc/?username=SquirrelPL&style=flat-square&color=orange" alt=""/>
 </div>
 
 
