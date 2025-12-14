@@ -8,8 +8,6 @@ I am a Full Stack Developer from Poland.
 
 - :telescope: I am currently studying part-time at AGH University of Science and Technology
 
-- :zap: In my free time, I design UI/UX
-
 - :mailbox:How to reach me? write email: `dutka.krzychu@gmail.com`
 
 <p align="right">
